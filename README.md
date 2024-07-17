@@ -189,13 +189,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### Sapiyon
 
 - **Description**: A SaaS app for managing field assets and employees in real-time, with automatic job allotment.
-- **Technologies**: Next.js, various backend technologies.
+- **Technologies**: MERN Stack (MongDB, Express.js, React.js, Node.js) various backend technologies such as ElasticSearch, Kibana, Redis, AWS SES, S3, Third party accounting APIs, Payment APIs, Google Map API for address completion, geocoding and live location tracking
 - **Scope**: Real-time management of field assets and employees with automatic job assignment.
-- **Role**: Full-stack development.
+- **Role**: Full-stack development as solo developer in begining and then team lead when team grew.
 - **Achievements**:
-  - Implemented real-time tracking and management features.
-  - Automated job allotment process to increase efficiency.
-  - Live location tracking via google map api
+  - Implemented real-time field employee tracking
+  - Task management features from enquiry phase to invoice printing, (added a feature to print pdf invoices)
+  - Live location tracking via google maps
+  - Added features to print a Job report via puppeteer
+  - Added excel import/export features
+  - Added complex searches in elastic-search in turkish language
+  - Developed real-time api to power web and mobile apps
+  - Assisted in leading/managing/bugfixing the development of react-native App
   
 
 ---
@@ -207,7 +212,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - **Scope**: A data collection app focused on compliance for a Singapore-based company.
 - **Role**: Full-stack development.
 - **Achievements**:
-  - Developed both frontend and backend components.
+  - Developed both frontend and backend as solo fullstack developer.
+  - Built a real-time api for super fast response times
+  - Added complex excel based data import/export features with pre-built teampltes and raw excel files
   - Ensured data integrity and compliance with industry standards.
+  - Added features to be able to export 100,000 Records at once
+  - Added features to be able to import 20,000 records at once into the app
 
 ---
