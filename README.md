@@ -13,7 +13,7 @@
 
 ### :man_technologist: &nbsp;About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 7 years of experience.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 9 years of experience.
 
 - 🔭 I’m working as a Software Engineer (Fullstack Web App Developer) and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
