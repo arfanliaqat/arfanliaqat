@@ -2,9 +2,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/arfanliaqat"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/arfanliaqat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=arfanliaqat&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
@@ -13,7 +10,7 @@
 
 ### :man_technologist: &nbsp;About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 7 years of experience.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 9 years of experience.
 
 - 🔭 I’m working as a Software Engineer (Fullstack Web App Developer) and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
@@ -23,8 +20,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arfanliaqat&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfanliaqat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -149,11 +144,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### [Pawcker](https://pawcker.com/)
 
 - **Description**: A portal to manage kennel clubs, their managers, and events, with Stripe payments integration.
-- **Technologies**: Node.js, Stripe.
+- **Technologies**: Node.js, Express.js, Next.js, Material UI, react-hook-forms, date-fns, react-query, draft-js based WYSIWYG editor, Stripe.
 - **Scope**: A host portal for managing kennel clubs and events, with payment processing capabilities.
 - **Role**: Backend and frontend development.
 - **Achievements**:
   - Developed an intuitive interface for managing kennel club events.
+  - Added a feature to create two types of events, First come first serve and Randomized. Each event could have various number of levels, and each level can further have any numbers of runs. The end-user should be able to book any number of levels/runs. Based on event type, i had to make sure that they can only book available seats.
+  - Integrated email from SES and 
   - Integrated Stripe for seamless payment processing.
 
 ---
@@ -161,12 +158,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### [Soplan](https://soplan.com/)
 
 - **Description**: A Netherlands-based scheduling web app.
-- **Technologies**: Next.js, Stripe API.
+- **Technologies**: React.js, Next.js, Stripe API, AWS Lambda, AWS Amplify, 
 - **Scope**: Conversion of an existing React application to Next.js with a focus on scheduling and payment integration.
 - **Role**: Frontend development.
 - **Achievements**:
   - Successfully migrated the application from React to Next.js.
   - Enhanced user experience with improved scheduling features.
+  - Added new blog section to improve SEO
+  - Added more payment flows
 
 ---
 
@@ -185,12 +184,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### [Sapiyon](https://sapiyon.com/)
 
 - **Description**: A SaaS app for managing field assets and employees in real-time, with automatic job allotment.
-- **Technologies**: Next.js, various backend technologies.
+- **Technologies**: MERN Stack (MongDB, Express.js, React.js, Node.js) various backend technologies such as ElasticSearch, Kibana, Redis, AWS SES, S3, Third party accounting APIs, Payment APIs, Google Map API for address completion, geocoding and live location tracking
 - **Scope**: Real-time management of field assets and employees with automatic job assignment.
-- **Role**: Full-stack development.
+- **Role**: Full-stack development as solo developer in begining and then team lead when team grew.
 - **Achievements**:
-  - Implemented real-time tracking and management features.
-  - Automated job allotment process to increase efficiency.
+  - Implemented real-time field employee tracking
+  - Task management features from enquiry phase to invoice printing, (added a feature to print pdf invoices)
+  - Live location tracking via google maps
+  - Added features to print a Job report via puppeteer
+  - Added excel import/export features
+  - Added complex searches in elastic-search in turkish language
+  - Developed real-time api to power web and mobile apps
+  - Assisted in leading/managing/bugfixing the development of react-native App
+  
 
 ---
 
@@ -201,7 +207,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - **Scope**: A data collection app focused on compliance for a Singapore-based company.
 - **Role**: Full-stack development.
 - **Achievements**:
-  - Developed both frontend and backend components.
+  - Developed both frontend and backend as solo fullstack developer.
+  - Built a real-time api for super fast response times
+  - Added complex excel based data import/export features with pre-built teampltes and raw excel files
   - Ensured data integrity and compliance with industry standards.
+  - Added features to be able to export 100,000 Records at once
+  - Added features to be able to import 20,000 records at once into the app
 
 ---
