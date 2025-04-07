@@ -121,7 +121,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🛠 &nbsp;Projects
 
-#### NRE Intranet - Knowledge Base App
+#### NRE Intranet - Knowledge Base App (internal app no link available)
 
 - **Description**: An intranet app built with Strapi, Django, Next.js, and Postgres for managing Markdown-based document storage/retrieval/editing with RBAC.
 - **Technologies**: List of technologies used ( Strapi, Django, Django Rest Framework,  Next.js, PostgreSQL, TailwindCSS).
@@ -134,7 +134,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - Built a nested tree structure for documents in Postgres.
   - Added a role-based access control system for documents w.r.t to nested tree structure.
 
-### ShopSavvy
+### [ShopSavvy](https://shopsavvy.com/)
 
 - **Description**: A web, iOS, and Android app that helps users find the best deals and monitor price drops.
 - **Technologies**: Firebase, Firestore, PostgreSQL, Node.js, Next.js.
@@ -146,7 +146,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### Pawcker
+### [Pawcker](https://pawcker.com/)
 
 - **Description**: A portal to manage kennel clubs, their managers, and events, with Stripe payments integration.
 - **Technologies**: Node.js, Stripe.
@@ -158,7 +158,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### Soplan
+### [Soplan](https://soplan.com/)
 
 - **Description**: A Netherlands-based scheduling web app.
 - **Technologies**: Next.js, Stripe API.
@@ -170,9 +170,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### iEnroll App
+### [iEnroll App](https://app.ienroll.ca)
 
-- **Description**: A medical SaaS app for documenting patient enrollments.
+- **Description**: A medical SaaS app for documenting patient enrollments for Canadian MedTech Firm.
 - **Technologies**: Next.js.
 - **Scope**: An application designed to assist medical service providers in documenting patient enrollments.
 - **Role**: Full-stack development.
@@ -182,7 +182,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### Sapiyon
+### [Sapiyon](https://sapiyon.com/)
 
 - **Description**: A SaaS app for managing field assets and employees in real-time, with automatic job allotment.
 - **Technologies**: Next.js, various backend technologies.
@@ -194,7 +194,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### MPR Data Portal
+### [MPR Data Portal](https://mpr.zerowastecity.com)
 
 - **Description**: A Compliance Data Collection SaaS App.
 - **Technologies**: MERN stack (MongoDB, Express.js, React, Node.js).
