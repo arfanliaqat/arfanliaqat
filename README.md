@@ -150,22 +150,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - **Achievements**:
   - Developed an intuitive interface for managing kennel club events.
   - Added a feature to create two types of events, First come first serve and Randomized. Each event could have various number of levels, and each level can further have any numbers of runs. The end-user should be able to book any number of levels/runs. Based on event type, i had to make sure that they can only book available seats.
-  - Integrated email from SES and 
+  - Integrated email from SES and
   - Integrated Stripe for seamless payment processing.
-
----
-
-### [Soplan](https://soplan.com/)
-
-- **Description**: A Netherlands-based scheduling web app.
-- **Technologies**: React.js, Next.js, Stripe API, AWS Lambda, AWS Amplify, 
-- **Scope**: Conversion of an existing React application to Next.js with a focus on scheduling and payment integration.
-- **Role**: Frontend development.
-- **Achievements**:
-  - Successfully migrated the application from React to Next.js.
-  - Enhanced user experience with improved scheduling features.
-  - Added new blog section to improve SEO
-  - Added more payment flows
 
 ---
 
@@ -197,7 +183,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - Developed real-time api to power web and mobile apps
   - Assisted in leading/managing/bugfixing the development of react-native App
   
-
 ---
 
 ### [MPR Data Portal](https://mpr.zerowastecity.com)
