@@ -174,14 +174,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - **Scope**: Real-time management of field assets and employees with automatic job assignment.
 - **Role**: Full-stack development as solo developer in begining and then team lead when team grew.
 - **Achievements**:
-  - Implemented real-time field employee tracking
-  - Task management features from enquiry phase to invoice printing, (added a feature to print pdf invoices)
-  - Live location tracking via google maps
-  - Added features to print a Job report via puppeteer
+  - Implemented real-time field employee tracking, client can see their employees/assets in realtime in google map
+  - Task management features from enquiry phase, to invoice printing, (added a feature to print pdf invoices)
+  - Implemented full Task management life cycle, from enquiry, to job assignment, to task completion, to invoicing and payment collection
+  - Integrated third-party accounting APIs to sync invoices and payments with accounting software
+  - Integrated third-party payment APIs to be able to collect payments online via credit cards
+  - Added feature to export a Task including its sub-tasks, notes, forms, checklists as PDF report via puppeteer
+  - Allow user to setup automation rules such as when a task is started/changed/complete, send an email to client via AWS SES with various attachment such as PDF quotes, invoices etc.
   - Added excel import/export features
   - Added complex searches in elastic-search in turkish language
   - Developed real-time api to power web and mobile apps
-  - Assisted in leading/managing/bugfixing the development of react-native App
+  - Assisted in leading/managing/bug fixing the development of react-native App
   
 ---
 
