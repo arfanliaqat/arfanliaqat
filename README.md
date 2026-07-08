@@ -25,11 +25,12 @@
 
 # Hi there! I'm Arfan Liaqat 👋
 
-I am a **Senior Full-Stack Software Engineer & Technical Leader** with 9+ years of professional experience, specializing in the MERN stack, TypeScript, Python (Django), and highly scalable web architectures. 
+I am a **Senior Full-Stack Software Engineer & Technical Leader** with 9+ years of professional experience, specializing in the MERN stack, TypeScript, Python (Django), and highly scalable web architectures.
 
 My engineering focus centers on building robust APIs, optimizing database performance, managing cloud deployments (AWS CDK / Docker), and delivering complex features like real-time tracking, custom PDF/Excel processing engines, and secure payment integrations.
 
 ### 🌟 Key Highlights
+
 - **9+ Years** of professional software engineering experience.
 - **7+ Years** of successful remote/WFH experience collaborating with international teams.
 - **7+ Years** of deep expertise in the **MERN Stack** (MongoDB, Express, React, Node.js) & **TypeScript**.
@@ -111,71 +112,90 @@ My engineering focus centers on building robust APIs, optimizing database perfor
 ## 💼 Featured Case Studies & Projects
 
 ### 🚀 [Sapiyon](https://sapiyon.com/) — Field Asset & Employee Management SaaS
+>
 > Enterprise-grade real-time asset tracking and task management platform designed to streamline dispatching, invoicing, and logistics.
+
 - **Role:** Lead Full-Stack Developer & Team Lead (Scaled API and managed React Native development).
 - **Architecture & Stack:** FeathersJS, Node.js, React, Redux Saga, MongoDB, Redis, Elasticsearch, Google Maps API, Puppeteer, AWS (S3 & SES), Iyzipay.
 - **Key Achievements & Dev Details:**
   - **Real-Time Tracking Engine:** Engineered socket-based real-time tracking using the Google Maps API and Socket.io, allowing clients to track employee locations and task statuses live.
   - **Dynamic Reporting:** Built a high-performance report generator using **Puppeteer** to compile nested tasks, checklists, and signatures into beautiful PDF exports.
   - **Background Job Queue:** Set up **Bull Queues** backed by **Redis** to offload heavy calculations, PDF compilation, and Excel processing to worker threads, preventing API timeouts.
+  - **Read-Write Segregation & Search:** Implemented a **Bull Queue** pipeline to sync data from a self-managed MongoDB instance to a dedicated Elasticsearch server, isolating write-heavy operations from search queries to achieve near-instant lookups.
   - **Automated workflows:** Designed a flexible event-driven automation engine triggering transactional emails via AWS SES with dynamic PDF invoices/quotes attached.
   - **Payment Integration:** Successfully integrated localized Turkish credit card payment gateways (Iyzipay) alongside modular custom fields drag-and-drop systems.
 
 ---
 
 ### 🩺 [iEnroll App](https://app.ienroll.ca) — Medical Patient SaaS Monorepo
+>
 > Secure documentation and patient enrollment SaaS designed for Canadian medical clinics.
+
 - **Role:** Lead Full-Stack Developer.
 - **Architecture & Stack:** Next.js, Node.js, Mongoose, MongoDB, OpenSearch, Auth0, AWS CDK, Docker, Fax.plus API, Docspring.
 - **Key Achievements & Dev Details:**
-  - **Infrastructure as Code (AWS CDK):** Rewrote dev, staging, and production server deployments using AWS CDK and ECS containerized services. **Eliminated static API credential dependencies** in favor of secure IAM role associations.
-  - **Search & Medical Indexing:** Built indexing architectures using **OpenSearch** to handle rapid queries across clinics and patient lists.
+  - **Dynamic Form Engine:** Built a custom form renderer in Next.js that parsed JSON schemas representing complex multi-page PDF enrollment forms, supporting real-time autosaving, field flagging/unflagging, contextual commenting, and instant PDF previews.
+  - **Interactive Joyride Review:** Engineered a review system using React Joyride to guide users through flagged fields or nested parent sections on dynamically rendered forms, resolving comments and toggling field flags.
+  - **Collaborative Sharing & Signatures:** Enabled form-sharing workflows for collaborative editing among patients, physicians, and care providers. Developed an HTML5 canvas-based signature component to collect secure digital signatures.
+  - **Address Autocomplete Component:** Integrated a Canadian postal address completion service to construct an autocomplete component that resolves locations down to the unit/flat number.
+  - **Privacy-Scoped Search Indexing:** Applied advanced Elasticsearch indexing patterns to implement AWS **OpenSearch** backed by **MongoDB Atlas**, enabling high-speed, clinic-scoped Patient ID search queries to ensure strict data privacy and isolation across clinics.
   - **Secure Document Processing:** Integrated **Docspring** and **Fax.plus APIs** with Next.js to automate fax submissions and PDF generation from digital patient records, enforcing strict compliance standards.
-  - **Clinic Access Controls:** Developed clinic invitation flows and approvals workflows, backed by Mongoose state machines governing enrollment lifecycles.
+  - **Clinic Access Controls & Admin Portal:** Built administrative interfaces for clinics and web-app administrators, incorporating clinic invitation workflows governed by Mongoose state machines to manage enrollment lifecycles.
 
 ---
 
 ### 🏷️ [ShopSavvy](https://shopsavvy.com/) — High-Scale Price Tracker
+>
 > A deals discovery and price-tracking ecosystem serving millions of active users across web, iOS, and Android.
+
 - **Role:** Senior Full-Stack Engineer.
 - **Architecture & Stack:** Node.js, Next.js, PostgreSQL, Knex, Firestore, Firebase, GCP Pub/Sub, OpenSearch, Playwright.
 - **Key Achievements & Dev Details:**
-  - **Image Processing Matcher:** Assisted in configuring the backend scraper pipeline using **SSIM (Structural Similarity Index)** algorithms to analyze and match product images across retailer listings.
   - **Scale and Syncing:** Configured **GCP Pub/Sub** message queues to sync scraping tasks and price alert notifications across Firestore/PostgreSQL backends.
   - **UI/UX Performance:** Connected Next.js website and browser extension features using optimized GraphQL/REST APIs, utilizing Tailwind CSS and mobile-tailored components.
 
 ---
 
 ### 🐕 [Pawcker](https://pawcker.com/) — Kennel Club & Booking Portal
+>
 > Dedicated platform for hosting kennel club directories, managing schedules, and facilitating trial entries.
+
 - **Role:** Solo Full-Stack Developer.
 - **Architecture & Stack:** Node.js, Express, Next.js, Material UI, React Query, Stripe, MongoDB, Mongoose, Mailersend.
 - **Key Achievements & Dev Details:**
   - **Seat Reservation Algorithm:** Designed a double-tier event booking engine supporting **First-Come-First-Serve** and **Randomized (Lottery)** registration schemes, managing concurrent bookings across levels/runs while avoiding database race conditions.
   - **WYSIWYG & Rich Text:** Built custom text formatting modules using Draft.js and react-draft-wysiwyg to allow hosts to customize event details.
   - **Payment Collection:** Fully integrated Stripe Checkout for handling registrations, ticket fees, and refund processing.
+  - **RBAC Enforcement:** Implemented a multi-tiered Role-Based Access Control (RBAC) system to securely segregate views and actions for kennel club admins, trial secretaries, and general dog owners.
 
 ---
 
 ### 📊 [MPR Data Portal](https://mpr.zerowastecity.com) — Compliance Data SaaS
+>
 > Data-aggregation compliance portal for a Singaporean waste-management and sustainability firm.
+
 - **Role:** Solo Full-Stack Developer.
 - **Architecture & Stack:** MongoDB, Express, React, Node.js (MERN), Elasticsearch, ExcelJS, Bull Queue.
 - **Key Achievements & Dev Details:**
-  - **High-Throughput Imports:** Built scalable CSV/Excel parsing pipelines utilizing `exceljs` and a Flask microservice (`openpyxl`) to import up to **20,000 records** and export up to **100,000 records** in a single request.
-  - **Database Index Optimization:** Redesigned MongoDB index matrices to optimize massive compliance queries, reducing report loading times by over 60%.
-  - **Worker Automation:** Deployed background queues using **Bull** to automate recalculations of linked product packaging weight metrics every 10 minutes.
+  - **High-Throughput Imports:** Built scalable Excel parsing pipelines utilizing `exceljs` and a Flask microservice (`openpyxl`) to import structured and unstructured Excel files of up to **20,000 records** and export up to **100,000 records** in a single request, while ensuring full compatibility across various Excel versions.
+  - **Database Index Optimization:** Redesigned MongoDB index matrices to optimize massive compliance queries, reducing report loading times to near-instant.
+  - **Worker Automation:** Deployed background queues using **Bull** to automate batch imports/exports and periodic recalculations of product packaging weight metrics, ensuring near-instant API responsiveness. Added support for generating complex multi-sheet Excel workbooks featuring interlinked data and formulas.
+  - **Budget-Optimized Search Segregation:** Co-located a self-managed MongoDB instance and Elasticsearch on a single server to meet client budget constraints, utilizing a **Bull Queue** syncing pipeline to offload read-heavy queries and keep MongoDB dedicated to writes.
+  - **RBAC Enforcement:** Built granular role-based access controls to restrict compliance data access and reports visibility between external waste suppliers, internal coordinators, and system administrators.
 
 ---
 
 ### 📚 NRE Intranet — Markdown Knowledge Base
+>
 > Enterprise intranet application for managing nested document directories with complex access levels.
+
 - **Role:** Solo Full-Stack Developer.
 - **Architecture & Stack:** Next.js, Django, Django REST Framework, PostgreSQL, Docker, Bootstrap, SCSS.
 - **Key Achievements & Dev Details:**
   - **Recursive RBAC Tree:** Designed hierarchical document directories using recursive CTE queries in PostgreSQL to enforce inherited permissions down directory trees.
   - **Next/Django Migration:** Ported a fast Strapi prototype to Django to support customized Postgres nested-permission models.
   - **Wiki-style Markdown Editor:** Integrated `@uiw/react-md-editor` with custom rehype/remark parsers supporting Wiki-style internal page link resolution.
+  - **API-Level RBAC:** Secured Django REST Framework endpoints with custom permission classes, integrating with the frontend to conditionally render UI controls based on user roles.
 
 ---
 
@@ -190,6 +210,7 @@ My engineering focus centers on building robust APIs, optimizing database perfor
 ---
 
 ## 📫 Connect with Me
+
 - **Upwork:** [Work with me on Upwork](https://www.upwork.com/freelancers/arfanliaqat786)
 - **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/arfanliaqat)
 - **GitHub:** [Follow me on GitHub](https://github.com/arfanliaqat)
