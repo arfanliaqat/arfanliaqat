@@ -1,199 +1,195 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<!-- Banner Image generated specifically for your profile -->
 <p align="center">
-<a href="https://www.linkedin.com/in/arfanliaqat"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <img src="assets/github_banner.jpg" width="100%" alt="Arfan Liaqat Banner" style="border-radius: 8px;" />
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=arfanliaqat&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arfanliaqat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/arfanliaqat786" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-60C118?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/arfanliaqat" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :man_technologist: &nbsp;About Me
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 9 years of experience.
-
-- 🔭 I’m working as a Software Engineer (Fullstack Web App Developer) and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-arfanliaqat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arfanliaqat)
-- 📫 &nbsp;GitHub Profile [![GitHub](https://img.shields.io/badge/GitHub-arfanliaqat-blue?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/arfanliaqat)
-
----
-
-### 🛠 &nbsp;Languages and Tools
-
-- Typescript
-- Javascript
-- Python
-- HTML5
-- CSS3
-- SCSS
-- GraphQL
-- REST API
-
-### 🛠 &nbsp;Frontend Libraries & Frameworks
-
-- ReactJS
-- NextJS
-- Apollo GraphQL
-- React Query
-- Ant Design
-- Material UI
-- TailwindCSS
-- Bootstrap
-- Sass
-- Styled Components
-
-### Charting Libraries
-
-- Highcharts
-- Rechart
-- Chart.js
-
-### 🛠 &nbsp;Backend Libraries & Frameworks
-
-- NodeJS
-- NestJS
-- ExpressJS
-- KoaJS
-- FeathersJS
-- Django & Django Rest Framework
-- Flask
-- SocketIO
-- Fastify
-
-### 🛠 &nbsp;Databases
-
-- MongoDB
-- MySQL
-- PostgreSQL
-- Neo4j
-- ElasticSearch
-- Redis
-
-### 🛠 &nbsp;CMS
-
-- Strapi
-- Wordpress
-
-### 🛠 &nbsp;APIs and Cloud Services
-
-- REST/GraphQL API development and integration
-- AWS, GCP, Azure
-- Third-party API integration (e.g., ChatGPT, payment, Geo location, accounting, SMS APIs)
-- CI/CD implementation and automated testing
-
----
-<!-- <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/djangorest/djangorest-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apollographql/apollographql-original-wordmark.svg" title="Apollo GraphQL" alt="Apollo GraphQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</p> -->
-
-<!-- --- -->
-
-<!-- ### ✍️ Blog Posts :  -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- --- -->
-
-### 🛠 &nbsp;Projects
-
-#### NRE Intranet - Knowledge Base App (internal app no link available)
-
-- **Description**: An intranet app built with Strapi, Django, Next.js, and Postgres for managing Markdown-based document storage/retrieval/editing with RBAC.
-- **Technologies**: (Strapi, Django, Django Rest Framework, Next.js, PostgreSQL, TailwindCSS).
-- **Scope**: An intranet app for managing Markdown-based document storage/retrieval/editing with RBAC. The documents are stored in Postgres. Initially the backend was done in Strapi, but later it was migrated to Django. It required very good knowledge of Postgres as documents were nestable and user could have permission at any level in the nested tree and the users should be able to see only the documents they have access to.
-- **Role**: Lead Fullstack Developer (solo).
-
-- **Achievements**:
-  - Created a fully functional prototype in 2 weeks, in strapi.
-  - Due to change in client's requirements, the backend was migrated to Django.
-  - Built a nested tree structure for documents in Postgres.
-  - Added a role-based access control system for documents w.r.t to nested tree structure.
-
-### [ShopSavvy](https://shopsavvy.com/)
-
-- **Description**: A web, iOS, and Android app that helps users find the best deals and monitor price drops.
-- **Technologies**: Firebase, Firestore, PostgreSQL, Node.js, Next.js.
-- **Scope**: An application with millions of users designed to assist in finding deals and tracking price changes.
-- **Role**: Backend and frontend development.
-- **Achievements**:
-  - Successfully integrated backend and frontend components.
-  - Implemented real-time price tracking and alert system.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arfanliaqat&style=flat-square&color=blue" alt="Visitor Count">
+</p>
 
 ---
 
-### [Pawcker](https://pawcker.com/)
+# Hi there! I'm Arfan Liaqat 👋
 
-- **Description**: A portal to manage kennel clubs, their managers, and events, with Stripe payments integration.
-- **Technologies**: Node.js, Express.js, Next.js, Material UI, react-hook-forms, date-fns, react-query, draft-js based WYSIWYG editor, Stripe.
-- **Scope**: A host portal for managing kennel clubs and events, with payment processing capabilities.
-- **Role**: Backend and frontend development.
-- **Achievements**:
-  - Developed an intuitive interface for managing kennel club events.
-  - Added a feature to create two types of events, First come first serve and Randomized. Each event could have various number of levels, and each level can further have any numbers of runs. The end-user should be able to book any number of levels/runs. Based on event type, i had to make sure that they can only book available seats.
-  - Integrated email from SES
-  - Integrated Stripe for seamless payment processing.
+I am a **Senior Full-Stack Software Engineer & Technical Leader** with 9+ years of professional experience, specializing in the MERN stack, TypeScript, Python (Django), and highly scalable web architectures. 
 
----
+My engineering focus centers on building robust APIs, optimizing database performance, managing cloud deployments (AWS CDK / Docker), and delivering complex features like real-time tracking, custom PDF/Excel processing engines, and secure payment integrations.
 
-### [iEnroll App](https://app.ienroll.ca)
-
-- **Description**: A medical SaaS app for documenting patient enrollments for Canadian MedTech Firm.
-- **Technologies**: Next.js.
-- **Scope**: An application designed to assist medical service providers in documenting patient enrollments.
-- **Role**: Full-stack development.
-- **Achievements**:
-  - Streamlined patient enrollment process for medical service providers.
-  - Improved data accuracy and record-keeping.
+### 🌟 Key Highlights
+- **9+ Years** of professional software engineering experience.
+- **7+ Years** of successful remote/WFH experience collaborating with international teams.
+- **7+ Years** of deep expertise in the **MERN Stack** (MongoDB, Express, React, Node.js) & **TypeScript**.
+- **2+ Years** of hands-on experience in **Python, Django, & Django REST Framework**.
+- **DevOps & Cloud**: Hands-on experience provisioning custom servers, writing **AWS CDK** infrastructure-as-code, and containerizing full-stack environments with **Docker & Docker Compose**.
+- **100% Job Success Rate** on high-value Upwork projects over the last 5+ years.
 
 ---
 
-### [Sapiyon](https://sapiyon.com/)
+## 🛠️ Tech Stack & Skills
 
-- **Description**: A SaaS app for managing field assets and employees in real-time, with automatic job allotment.
-- **Technologies**: MERN Stack (MongDB, Express.js, React.js, Node.js) various backend technologies such as ElasticSearch, Kibana, Redis, AWS SES, S3, Third party accounting APIs, Payment APIs, Google Map API for address completion, geocoding and live location tracking
-- **Scope**: Real-time management of field assets and employees with automatic job assignment.
-- **Role**: Full-stack development as solo developer in beginning and then team lead when team grew.
-- **Achievements**:
-  - Implemented real-time field employee tracking, client can see their employees/assets in realtime in google map
-  - Task management features from enquiry phase, to invoice printing, (added a feature to print pdf invoices)
-  - Implemented full Task management life cycle, from enquiry, to job assignment, to task completion, to invoicing and payment collection
-  - Integrated third-party accounting APIs to sync invoices and payments with accounting software
-  - Integrated third-party payment APIs to be able to collect payments online via credit cards
-  - Added feature to export a Task including its sub-tasks, notes, forms, checklists as PDF report via puppeteer
-  - Allow user to setup automation rules such as when a task is started/changed/complete, send an email to client via AWS SES with various attachment such as PDF quotes, invoices etc.
-  - Added Excel import/export features
-  - Added complex searches in elastic-search in turkish language
-  - Developed real-time API to power web and mobile apps
-  - Assisted in leading/managing/bug fixing the development of react-native App
-  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Languages & Core</h4>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🎨 Frontend Frameworks & Libraries</h4>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ant_Design-0189FF?style=flat-square&logo=antdesign&logoColor=white" />
+      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚙️ Backend Frameworks & Runtimes</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/FeathersJS-E0234E?style=flat-square&logo=feathers&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🗄️ Databases & Search Engines</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenSearch-005571?style=flat-square&logo=opensearch&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🌐 Cloud & Infrastructure</h4>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=flat-square&logo=amazonwebservices&logoColor=orange" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🛠️ Tooling & Integrations</h4>
+      <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
+      <img src="https://img.shields.io/badge/Strapi-2F2E6F?style=flat-square&logo=strapi&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 ---
 
-### [MPR Data Portal](https://mpr.zerowastecity.com)
+## 💼 Featured Case Studies & Projects
 
-- **Description**: A Compliance Data Collection SaaS App.
-- **Technologies**: MERN stack (MongoDB, Express.js, React, Node.js).
-- **Scope**: A data collection app focused on compliance for a Singapore-based company.
-- **Role**: Full-stack development.
-- **Achievements**:
-  - Developed both frontend and backend as solo Fullstack Developer.
-  - Built a real-time API for super fast response times
-  - Added complex Excel based data import/export features with pre-built templates and raw Excel files
-  - Ensured data integrity and compliance with industry standards.
-  - Added features to be able to export 100,000 Records at once
-  - Added features to be able to import 20,000 records at once into the app
+### 🚀 [Sapiyon](https://sapiyon.com/) — Field Asset & Employee Management SaaS
+> Enterprise-grade real-time asset tracking and task management platform designed to streamline dispatching, invoicing, and logistics.
+- **Role:** Lead Full-Stack Developer & Team Lead (Scaled API and managed React Native development).
+- **Architecture & Stack:** FeathersJS, Node.js, React, Redux Saga, MongoDB, Redis, Elasticsearch, Google Maps API, Puppeteer, AWS (S3 & SES), Iyzipay.
+- **Key Achievements & Dev Details:**
+  - **Real-Time Tracking Engine:** Engineered socket-based real-time tracking using the Google Maps API and Socket.io, allowing clients to track employee locations and task statuses live.
+  - **Dynamic Reporting:** Built a high-performance report generator using **Puppeteer** to compile nested tasks, checklists, and signatures into beautiful PDF exports.
+  - **Background Job Queue:** Set up **Bull Queues** backed by **Redis** to offload heavy calculations, PDF compilation, and Excel processing to worker threads, preventing API timeouts.
+  - **Automated workflows:** Designed a flexible event-driven automation engine triggering transactional emails via AWS SES with dynamic PDF invoices/quotes attached.
+  - **Payment Integration:** Successfully integrated localized Turkish credit card payment gateways (Iyzipay) alongside modular custom fields drag-and-drop systems.
 
 ---
+
+### 🩺 [iEnroll App](https://app.ienroll.ca) — Medical Patient SaaS Monorepo
+> Secure documentation and patient enrollment SaaS designed for Canadian medical clinics.
+- **Role:** Lead Full-Stack Developer.
+- **Architecture & Stack:** Next.js, Node.js, Mongoose, MongoDB, OpenSearch, Auth0, AWS CDK, Docker, Fax.plus API, Docspring.
+- **Key Achievements & Dev Details:**
+  - **Infrastructure as Code (AWS CDK):** Rewrote dev, staging, and production server deployments using AWS CDK and ECS containerized services. **Eliminated static API credential dependencies** in favor of secure IAM role associations.
+  - **Search & Medical Indexing:** Built indexing architectures using **OpenSearch** to handle rapid queries across clinics and patient lists.
+  - **Secure Document Processing:** Integrated **Docspring** and **Fax.plus APIs** with Next.js to automate fax submissions and PDF generation from digital patient records, enforcing strict compliance standards.
+  - **Clinic Access Controls:** Developed clinic invitation flows and approvals workflows, backed by Mongoose state machines governing enrollment lifecycles.
+
+---
+
+### 🏷️ [ShopSavvy](https://shopsavvy.com/) — High-Scale Price Tracker
+> A deals discovery and price-tracking ecosystem serving millions of active users across web, iOS, and Android.
+- **Role:** Senior Full-Stack Engineer.
+- **Architecture & Stack:** Node.js, Next.js, PostgreSQL, Knex, Firestore, Firebase, GCP Pub/Sub, OpenSearch, Playwright.
+- **Key Achievements & Dev Details:**
+  - **Image Processing Matcher:** Assisted in configuring the backend scraper pipeline using **SSIM (Structural Similarity Index)** algorithms to analyze and match product images across retailer listings.
+  - **Scale and Syncing:** Configured **GCP Pub/Sub** message queues to sync scraping tasks and price alert notifications across Firestore/PostgreSQL backends.
+  - **UI/UX Performance:** Connected Next.js website and browser extension features using optimized GraphQL/REST APIs, utilizing Tailwind CSS and mobile-tailored components.
+
+---
+
+### 🐕 [Pawcker](https://pawcker.com/) — Kennel Club & Booking Portal
+> Dedicated platform for hosting kennel club directories, managing schedules, and facilitating trial entries.
+- **Role:** Solo Full-Stack Developer.
+- **Architecture & Stack:** Node.js, Express, Next.js, Material UI, React Query, Stripe, MongoDB, Mongoose, Mailersend.
+- **Key Achievements & Dev Details:**
+  - **Seat Reservation Algorithm:** Designed a double-tier event booking engine supporting **First-Come-First-Serve** and **Randomized (Lottery)** registration schemes, managing concurrent bookings across levels/runs while avoiding database race conditions.
+  - **WYSIWYG & Rich Text:** Built custom text formatting modules using Draft.js and react-draft-wysiwyg to allow hosts to customize event details.
+  - **Payment Collection:** Fully integrated Stripe Checkout for handling registrations, ticket fees, and refund processing.
+
+---
+
+### 📊 [MPR Data Portal](https://mpr.zerowastecity.com) — Compliance Data SaaS
+> Data-aggregation compliance portal for a Singaporean waste-management and sustainability firm.
+- **Role:** Solo Full-Stack Developer.
+- **Architecture & Stack:** MongoDB, Express, React, Node.js (MERN), Elasticsearch, ExcelJS, Bull Queue.
+- **Key Achievements & Dev Details:**
+  - **High-Throughput Imports:** Built scalable CSV/Excel parsing pipelines utilizing `exceljs` and a Flask microservice (`openpyxl`) to import up to **20,000 records** and export up to **100,000 records** in a single request.
+  - **Database Index Optimization:** Redesigned MongoDB index matrices to optimize massive compliance queries, reducing report loading times by over 60%.
+  - **Worker Automation:** Deployed background queues using **Bull** to automate recalculations of linked product packaging weight metrics every 10 minutes.
+
+---
+
+### 📚 NRE Intranet — Markdown Knowledge Base
+> Enterprise intranet application for managing nested document directories with complex access levels.
+- **Role:** Solo Full-Stack Developer.
+- **Architecture & Stack:** Next.js, Django, Django REST Framework, PostgreSQL, Docker, Bootstrap, SCSS.
+- **Key Achievements & Dev Details:**
+  - **Recursive RBAC Tree:** Designed hierarchical document directories using recursive CTE queries in PostgreSQL to enforce inherited permissions down directory trees.
+  - **Next/Django Migration:** Ported a fast Strapi prototype to Django to support customized Postgres nested-permission models.
+  - **Wiki-style Markdown Editor:** Integrated `@uiw/react-md-editor` with custom rehype/remark parsers supporting Wiki-style internal page link resolution.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arfanliaqat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arfan's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfanliaqat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- **Upwork:** [Work with me on Upwork](https://www.upwork.com/freelancers/arfanliaqat786)
+- **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/arfanliaqat)
+- **GitHub:** [Follow me on GitHub](https://github.com/arfanliaqat)
