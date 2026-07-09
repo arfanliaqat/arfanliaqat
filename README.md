@@ -1,7 +1,4 @@
-<!-- Banner Image generated specifically for your profile -->
-<p align="center">
-  ![Arfan Liaqat Banner](assets/github_banner.jpg)
-</p>
+![Arfan Liaqat Banner](assets/github_banner.jpg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arfanliaqat" target="_blank">
