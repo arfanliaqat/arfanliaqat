@@ -1,6 +1,6 @@
 <!-- Banner Image generated specifically for your profile -->
 <p align="center">
-  <img src="assets/github_banner.jpg" width="100%" alt="Arfan Liaqat Banner" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/arfanliaqat/arfanliaqat/main/assets/github_banner.jpg" width="100%" alt="Arfan Liaqat Banner" />
 </p>
 
 <p align="center">
@@ -202,9 +202,9 @@ My engineering focus centers on building robust APIs, optimizing database perfor
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arfanliaqat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arfan's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=arfanliaqat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arfan's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfanliaqat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arfanliaqat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
