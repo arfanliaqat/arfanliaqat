@@ -1,6 +1,6 @@
 <!-- Banner Image generated specifically for your profile -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arfanliaqat/main/assets/github_banner.jpg" width="100%" alt="Arfan Liaqat Banner" />
+  <img src="https://github.com/arfanliaqat/arfanliaqat/blob/master/assets/github_banner.jpg?raw=true" width="100%" alt="Arfan Liaqat Banner" />
 </p>
 
 <p align="center">
